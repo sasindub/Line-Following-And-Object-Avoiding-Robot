@@ -1,6 +1,6 @@
 # Line-Following-And-Object-Avoiding-Robot
 
-##Needed Materials 
+## Needed Materials 
 
 - Arduino uno board 
 - 4 Mortors and tires
@@ -11,7 +11,7 @@
 - Male to Female Jumpers
 - Female to Female Jumpers
 
-######Features of the robot
+###### Features of the robot
 
 •	Identifying a black line and following it.
 
