@@ -55,7 +55,6 @@ void loop() {
   
  if (digitalRead(RIGHT)==HIGH && digitalRead(LEFT)==HIGH)
  {
-//      delay(70);
       if (distance == 0) 
       {
       distance = 30;
@@ -205,15 +204,6 @@ if (digitalRead(RIGHT)==LOW && digitalRead(LEFT)==LOW) {
   digitalWrite(MOTOR_Lr, LOW);
   
   
-}else if (digitalRead(RIGHT)==HIGH && digitalRead(LEFT)==HIGH) {
-// i=0;
-// if(distance <=15){
-//  turnAround();
-//  }else{
-//     Stop(); 
-//    }
-// 
- 
 }
 
   Serial.println("exit") ;
